@@ -45,3 +45,21 @@ _Astronaut is a bot (artificial intelligence) of moderation, interaction, fun an
 ```fix
 +ready - +invite - +bot - +suggestion - +bug - +support
 ```
+
+## Social networks 🔎
+
+* [Discord](https://discord.gg/bFNTBs9nTb)
+* [Twitter](https://twitter.com/zRazezRaze1)
+* [YouTube](https://www.youtube.com/channel/UCIPikSzydr1uYAtSX61rDsQ)
+* [Pagina Web]()
+
+## Contributions 🎁
+
+* [Cayetano](https://www.youtube.com/channel/UCRx5QHHT_fUypyBAZ7jH9Cw)
+* [Leonar](https://www.youtube.com/channel/UC-lCDLjqSk_WYr0NzYZP3IA)
+* [Coletas](https://www.youtube.com/channel/UCZB1mmzcfgSQ55_iyXzDVXw )
+* [zRaze (Creator and Developer)](https://www.youtube.com/channel/UCIPikSzydr1uYAtSX61rDsQ)
+
+---
+
+**Creado por** [zRaze](https://github.com/zRaze)
