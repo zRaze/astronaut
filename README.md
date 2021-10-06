@@ -51,7 +51,7 @@ _Astronaut is a bot (artificial intelligence) of moderation, interaction, fun an
 * [Discord](https://discord.gg/bFNTBs9nTb)
 * [Twitter](https://twitter.com/zRazezRaze1)
 * [YouTube](https://www.youtube.com/channel/UCIPikSzydr1uYAtSX61rDsQ)
-* [Pagina Web]()
+* [Pagina Web](https://zraze.github.io/astronaut/)
 
 ## Contributions 🎁
 
