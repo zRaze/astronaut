@@ -14,7 +14,7 @@ _Astronaut is a bot (artificial intelligence) of moderation, interaction, fun an
 +ban - +unban - +kick +slowmode - +mute - +unmute + slowmode - +purge - +warn
 ```
 
-#### Interaction 🍬
+### Interaction 🍬
 
 **Here we leave you the list of commands that the bot has:**
 
@@ -22,7 +22,7 @@ _Astronaut is a bot (artificial intelligence) of moderation, interaction, fun an
 +ping - +snipe - +say
 ```
 
-##### Fun 🎪
+### Fun 🎪
 
 **Here we leave you the list of commands that the bot has:**
 
@@ -30,7 +30,7 @@ _Astronaut is a bot (artificial intelligence) of moderation, interaction, fun an
 +meme - +giveaway - +afk - +8ball - +pp - +hack - +ttt
 ```
 
-###### Information ❔
+### Information ❔
 
 **Here we leave you the list of commands that the bot has:**
 
@@ -38,7 +38,7 @@ _Astronaut is a bot (artificial intelligence) of moderation, interaction, fun an
 +userinfo - +serverinfo - +membercount - +avatar
 ```
 
-####### Others 🎃
+### Others 🎃
 
 **Here we leave you the list of commands that the bot has:**
 
